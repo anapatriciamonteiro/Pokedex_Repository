@@ -2,6 +2,10 @@
 
 Link do Surge dumont-pokedex11.surge.sh
 
++ Site pokedéx em que aparece uma listagem de no máximo 100 pokemóns
++ Tem o botão Go Back para retornar a tela anterior caso cliquemos na opção pokedéx
++ A Pokedéx filtra os pokemóns que serão adicionados
+
 ![100436804-9c3a2180-307e-11eb-8e21-85935e9452cd](https://user-images.githubusercontent.com/69467366/140009499-e074c749-6b28-4191-b526-e1fd5a4e803c.png)
 
 ![100436830-a8be7a00-307e-11eb-968e-6badde19a216](https://user-images.githubusercontent.com/69467366/140009500-8a2217ab-5f5e-44a6-8d49-8d800fe11285.png)
