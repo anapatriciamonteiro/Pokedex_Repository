@@ -1,11 +1,11 @@
 # Pokedex_Repository
 
-+Site pokemon em que aparece uma listagem de no máximo 100 pokemóns mostrados em forma de paginação, 
- em que aparece a opção de adicionar o pokemón a pokedéx e permite ver mais detalhes.
+. Site pokemon em que aparece uma listagem de no máximo 100 pokemóns mostrados em forma de paginação, 
+  em que aparece a opção de adicionar o pokemón a pokedéx e permite ver mais detalhes.
   
-+Tem o botão Go Back para retornar a tela anterior
+. Tem o botão Go Back para retornar a tela anterior
 
-+A Pokedéx filtra os pokemóns que foram adicionados, permite remover o pokemón e ver mais detalhes
+. A Pokedéx filtra os pokemóns que foram adicionados, permite remover o pokemón e ver mais detalhes
 
 Link do Surge dumont-pokedex11.surge.sh
 
