@@ -7,7 +7,7 @@
 
 . A Pokedéx filtra os pokemóns que foram adicionados, permite remover o pokemón e ver mais detalhes
 
-Link do Surge dumont-pokedex11.surge.sh
+Link do Surge para ver a página: dumont-pokedex11.surge.sh
 
 ![Foto1](https://user-images.githubusercontent.com/69467366/181679773-84d27680-2187-4813-b95c-bb88e57b4e05.png)
 
